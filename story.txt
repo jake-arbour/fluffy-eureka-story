@@ -7,9 +7,15 @@ Then the cs professor Larry busted through the cs lab to challenge the evil DELL
 Dell was no match for the far stronger and better cs professor. 
 Mac saw Larry over the beaten Dell as he ripped out his processor.
 
-Larry became king of all cs labs and quickly became a dictator. Mac was fed up with Larrys power and challenged
-him to a duel. Winner becomes king of the cs labs. Through a hard fought coding battle, Mac came out victorious
-and restored peace throughout all the labs.
+Larry became king of all cs labs and quickly became a dictator. Mac was fed up 
+with Larrys power and challenged him to a duel. Winner becomes king of the cs 
+labs. Through a hard fought coding battle, Mac came out victorious and restored peace throughout all the labs.
 
-The rest of the followers of DELL start to leave the cs labs and settle themselves down in a place called Business hall.
-They tried to restore their power in this shelter and get revenge one day for DELL.   
+The rest of the followers of DELL start to leave the cs labs and settle 
+themselves down in a place called Business hall. They tried to restore their 
+power in this shelter and get revenge one day for DELL.
+
+The new King of the CS labs, Mac, ruled over his kingdom peacefully, 
+for a time...
+He knew that the former followers of Dell were becoming stronger and stronger, 
+and that one day that would rebel against his leadership. Until that day, all he can do is patiently wait.   
