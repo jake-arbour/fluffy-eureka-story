@@ -1,1 +1,8 @@
-Once upon a time, in faraway land called Javaton, there was a hero named Mac. Mac could type faster than anybody in the land, but he was always competing with his arch nemesis, Dell. One day, the two had a great duel in the Computer Sciences lab, and they both absolutely destroyed the lowly peasant Jake, who was a mediocre coder that was way out of his league. The end.
+Once upon a time, in faraway land called Javaton, there was a hero named Mac.
+Mac could type faster than anybody in the land, but he was always competing with his arch nemesis, Dell.
+One day, the two had a great duel in the Computer Sciences lab, and they both absolutely destroyed the lowly peasant Jake, 
+who was a mediocre coder that was way out of his league.
+
+Then the cs professor Larry busted through the cs lab to challenge the evil DELL. 
+Dell was no match for the far stronger and better cs professor. 
+Mac saw Larry over the beaten Dell as he ripped out his processor.
